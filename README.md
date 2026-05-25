@@ -23,7 +23,6 @@ Projeyi yerel bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
 1. **Depoyu klonlayın:**
    ```
-   git clone [https://github.com/kullanici-adiniz/KwremNet.git](https://github.com/kullanici-adiniz/KwremNet.git)
    cd KwremNet
 Gerekli kütüphaneleri yükleyin:
    ```
